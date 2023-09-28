@@ -10,3 +10,6 @@ Hi, I'm a Front-end Developer, I am passionate about creating visually appealing
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mdasik0&show_icons=true&locale=en" alt="mdasik0" /></p>
 
 
+## .
+
+<p  width="100%" align="center"><img style="margin-right: 10px; margin-top: 10px;" align="center" style="margin-top: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdasik0&show_icons=true&locale=en" alt="mdasik0" /></p>
