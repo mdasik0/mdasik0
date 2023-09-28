@@ -7,7 +7,7 @@ Hi, I'm a Front-end Developer, I am passionate about creating visually appealing
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://cute-concha-6a1a1e.netlify.app/](https://cute-concha-6a1a1e.netlify.app/)
+- 👨‍💻 My Portfolio here [Md Asik](https://cute-concha-6a1a1e.netlify.app/)
 
 - 📫 How to reach me **asikthe1st@gmail.com**
 
