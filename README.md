@@ -1,5 +1,7 @@
 ![](https://i.ibb.co/mCrdLsq/complete-Github-Banner.jpg)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdasik0&label=Profile%20views&color=0e75b6&style=flat" alt="mdasik0" /> </p>
+
 Hi, I'm a Front-end Developer, I am passionate about creating visually appealing and user-friendly websites, constantly honing my skills for professional growth.
 
 #### Social Information
@@ -10,4 +12,4 @@ Hi, I'm a Front-end Developer, I am passionate about creating visually appealing
 
 <p><img align="right" height="205" width="495" src="https://github-readme-stats.vercel.app/api?username=mdasik0&show_icons=true&locale=en" alt="mdasik0" /></p>
 
-<p align="center" height="300" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mdasik0&" alt="mdasik0" /></p>
+<p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mdasik0&" alt="mdasik0" /></p>
