@@ -4,6 +4,15 @@
 
 Hi, I'm a Front-end Developer, I am passionate about creating visually appealing and user-friendly websites, constantly honing my skills for professional growth.
 
+
+- 🌱 I’m currently learning **Next js**
+
+- 👨‍💻 All of my projects are available at [https://cute-concha-6a1a1e.netlify.app/](https://cute-concha-6a1a1e.netlify.app/)
+
+- 📫 How to reach me **asikthe1st@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZJijNmOm5wQrE5_HC85v-vkL0a-85rcS/view?usp=sharing](https://drive.google.com/file/d/1ZJijNmOm5wQrE5_HC85v-vkL0a-85rcS/view?usp=sharing)
+
 #### Social Information
 
 [<img src='https://cdn-icons-png.flaticon.com/128/3536/3536505.png?ga=GA1.1.245896225.1686151778&track=ais' alt='linkedin' height='31' style="margin-right: 10px; margin-top: 10px;">](https://www.linkedin.com/in/mdasik0//)&nbsp;&nbsp;[<img src='https://cdn-icons-png.flaticon.com/128/5968/5968764.png?ga=GA1.1.245896225.1686151778&track=ais' alt='facebook' height='30' style="margin-top: 10px;">](https://www.facebook.com/itsasikhan/)
