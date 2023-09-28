@@ -11,7 +11,7 @@ Hi, I'm a Front-end Developer, I am passionate about creating visually appealing
 
 - 📫 How to reach me **asikthe1st@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZJijNmOm5wQrE5_HC85v-vkL0a-85rcS/view?usp=sharing](https://drive.google.com/file/d/1ZJijNmOm5wQrE5_HC85v-vkL0a-85rcS/view?usp=sharing)
+- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1ZJijNmOm5wQrE5_HC85v-vkL0a-85rcS/view?usp=sharing)
 
 ### Social Information
 
