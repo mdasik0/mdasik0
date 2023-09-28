@@ -1,4 +1,7 @@
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+![](https://i.ibb.co/7JxBwcW/complete-Github-Banner.jpg)
+
+Hi, I'm a Front-end Developer, I am passionate about creating visually appealing and user-friendly websites, constantly honing my skills for professional growth.
+<h3>A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdasik0&label=Profile%20views&color=0e75b6&style=flat" alt="mdasik0" /> </p>
 
