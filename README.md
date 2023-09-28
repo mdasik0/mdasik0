@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdasik0&label=Profile%20views&color=0e75b6&style=flat" alt="mdasik0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdasik0" alt="mdasik0" /></a> </p>
-
 - 🌱 I’m currently learning **Next js**
 
 - 👨‍💻 All of my projects are available at [https://cute-concha-6a1a1e.netlify.app/](https://cute-concha-6a1a1e.netlify.app/)
