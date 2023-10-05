@@ -66,12 +66,15 @@
 </div>
 <br />
 
+<div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdasik0&show_icons=true&locale=en" alt="mdasik0" /></p>
 
 <p><img align="right" height="205" width="495" src="https://github-readme-stats.vercel.app/api?username=mdasik0&show_icons=true&locale=en" alt="mdasik0" /></p>
 
+  
+</div>
 <br>
-<br>
-<p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mdasik0&" alt="mdasik0" /></p>
+<div align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mdasik0&" alt="mdasik0" /></div>
 
 
