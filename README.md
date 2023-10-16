@@ -1,5 +1,6 @@
 ![](https://i.ibb.co/mCrdLsq/complete-Github-Banner.jpg)
 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdasik0&label=Profile%20views&color=0e75b6&style=flat" alt="mdasik0" /> </p>
 
 <p align="center">Hi, I am Md Asik. A passionate Front-end React & Next js Developer Based on 🚩Narayanganj, Bangladesh</p>
@@ -74,7 +75,9 @@
 
   
 </div>
-<br>
+<br />
 <div align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mdasik0&" alt="mdasik0" /></div>
+<br />
+<p align="center"> <img width="300" src="https://i.ibb.co/x82QkXQ/ezgif-com-crop.gif" alt="mdasik0" /> </p>
 
 
