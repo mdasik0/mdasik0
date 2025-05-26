@@ -6,5 +6,4 @@
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about react.js
 - 📫 How to reach me: asikthe1st@gmail.com
-- ⚡ Fun fact: Do you know spiders are the only web developers in the world that enjoys finding bugs. 
-
+- ⚡ Fun fact: Did you know that spiders are the only web developers in the world who enjoy finding bugs?
