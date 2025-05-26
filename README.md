@@ -2,7 +2,7 @@
   a web developer
 
 - 🔭 I’m currently working on a project management web application called projease
-- 🌱 I’m currently learning socket.io
+- 🌱 I’m currently learning next.js and typescript
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about react.js
 - 📫 How to reach me: asikthe1st@gmail.com
