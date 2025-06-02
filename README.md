@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning next.js and typescript
 - 👯 I’m looking to collaborate on company and professional works
 - 💬 Ask me about react.js
-- 📫 📫 Email me via Gmail: [asikthe1st@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=asikthe1st@gmail.com&su=Regarding%20Your%20Portfolio&body=Hello%20Asik,%20I%20would%20like%20to%20connect%20regarding%20your%20projects.)
+- 📫 Email me: [asikthe1st@gmail.com ↗](https://mail.google.com/mail/?view=cm&fs=1&to=asikthe1st@gmail.com&su=Regarding%20Your%20Portfolio&body=Hello%20Asik,%20I%20would%20like%20to%20connect%20regarding%20your%20projects.)
 - ⚡ Fun fact: Did you know that spiders are the only web developers in the world who enjoy finding bugs?
 
 <p align="center">
