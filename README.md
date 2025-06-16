@@ -9,5 +9,5 @@
 - ⚡ Fun fact: Did you know that spiders are the only web developers in the world who enjoy finding bugs?
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=mdasik0&theme=react&hide_border=true&background=0D1117&stroke=F0F6D9&fire=FE650D&sideLabels=F0F6D9&currStreakNum=ff6b00&ring=F0F6D9&currStreakLabel=ff6b00&sideNums=ff6b00" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=mdasik0&theme=react&hide_border=true&background=0D1117&stroke=F0F6D9&fire=FE650D&sideLabels=F0F6D9&currStreakNum=ff6b00&ring=F0F6D9&currStreakLabel=ff6b00&sideNums=ff6b00&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
