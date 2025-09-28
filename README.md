@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Md Asik
   a web developer
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning next.js and typescript
+- 🔭 I’m currently working on Flashcard-Ai
+- 🌱 I’m currently learning next.js, typescript and mongoose
 - 👯 I’m looking to collaborate on company and professional works
 - 💬 Ask me about react.js
 - 📫 Email me: [asikthe1st@gmail.com ↗](https://mail.google.com/mail/?view=cm&fs=1&to=asikthe1st@gmail.com&su=Regarding%20Your%20Portfolio&body=Hello%20Asik,%20I%20would%20like%20to%20connect%20regarding%20your%20projects.)
